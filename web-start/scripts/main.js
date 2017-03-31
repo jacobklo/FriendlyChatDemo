@@ -75,6 +75,7 @@ FriendlyChat.prototype.saveMessage = function(e) {
 
     // TODO(DEVELOPER): push new message to Firebase.
 
+
   }
 };
 
